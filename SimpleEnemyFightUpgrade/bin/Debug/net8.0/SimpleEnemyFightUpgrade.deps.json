@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleEnemyFightUpgrade/1.0.0": {
+        "runtime": {
+          "SimpleEnemyFightUpgrade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleEnemyFightUpgrade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
